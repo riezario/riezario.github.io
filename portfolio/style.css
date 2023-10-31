@@ -1,0 +1,42 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #64ecda;
+}
+
+section {
+  padding-top: 5rem;
+}
+/* <!-- add your custom CSS --> */
+/* 
+untuk kursor scroll
+body {
+  font-family: sans-serif;
+  min-height: 5000px;
+} */
+
+/* Add WA floating button CSS */
+.floating {
+  position: fixed;
+  width: 60px;
+  height: 60px;
+  bottom: 40px;
+  right: 40px;
+  background-color: #25d366;
+  color: #fff;
+  border-radius: 50px;
+  text-align: center;
+  font-size: 30px;
+  box-shadow: 2px 2px 3px #999;
+  z-index: 100;
+}
+
+.fab-icon {
+  margin-top: 16px;
+}
+
+/* css id Certificate */
+#Certificate {
+  background-color: #64ecda;
+}
+/* end id Certificate */
+/* <!-- end css --> */
